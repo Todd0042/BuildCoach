@@ -403,6 +403,11 @@ This addon includes AI-generated content and/or AI-assisted code. AI may have be
   </a>
 </p>
 
+
+## License
+
+Copyright (c) 2026 [Todd0042](https://github.com/Todd0042). Source-available under the **[PolyForm Noncommercial License 1.0.0](LICENSE)**: free for personal, hobby, educational, research and nonprofit use. Commercial use (inside a company, in a paid product or service, or for profit) requires a separate license from [Todd0042](https://github.com/Todd0042). Third-party components keep their own licenses.
+
 ---
 
 <p align="center">
